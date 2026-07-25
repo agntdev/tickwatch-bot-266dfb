@@ -7,7 +7,7 @@
           {
             "method": "sendMessage",
             "payload": {
-              "text": "Initiate coin selection and alert setup flow"
+              "text": "Send the ticker you want to track, such as BTC."
             }
           }
         ],
