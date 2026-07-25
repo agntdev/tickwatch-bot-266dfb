@@ -7,7 +7,7 @@
           {
             "method": "sendMessage",
             "payload": {
-              "text": "View and modify existing watchlist items"
+              "text": "No coins are on your watchlist yet — tap Add coin to create an alert."
             }
           }
         ],

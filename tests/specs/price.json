@@ -7,7 +7,7 @@
           {
             "method": "sendMessage",
             "payload": {
-              "text": "Check current price(s) with optional ticker parameter"
+              "text": "Send a ticker with the command, for example /price BTC."
             }
           }
         ],
